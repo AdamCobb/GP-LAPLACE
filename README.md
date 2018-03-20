@@ -43,7 +43,8 @@ pip install -r requirements.txt
 2. Download and install GPFlow.
 ```
 git clone https://github.com/GPflow/GPflow
-pip install GPflow/.
+cd GPflow
+pip install .
 ```
 3. Run notebooks.
 ```
